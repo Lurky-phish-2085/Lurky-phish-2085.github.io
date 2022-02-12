@@ -1,0 +1,24 @@
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+h1 {
+	color: red;
+	text-align: center;
+	font-size: 300%;
+}
+
+body {
+	background-color: white;
+}
+
+p {
+	font-size: 160%;
+}
+
+a {
+	font-size: 160%;
+}
